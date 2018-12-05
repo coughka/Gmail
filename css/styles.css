@@ -1,0 +1,31 @@
+.container {
+    width:80%;
+    margin:10vh auto;
+    background-color:hsl(0, 0%, 95%);
+    padding:1rem 2rem;
+}
+
+.bold {
+    font-weight:700;
+}
+
+.format {
+    text-decoration: underline;
+    margin:0 0.25rem;
+    color:hsl(0, 0%, 45%);
+}
+
+i {
+    color:hsl(0, 0%, 45%);
+    margin:0 0.25rem;
+}
+
+img {
+    margin:0 auto;
+}
+
+.fa-arrows-alt-h {
+    transform:rotate(-45deg);
+}
+
+
